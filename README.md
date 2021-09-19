@@ -13,5 +13,5 @@ poetry install --no-dev
 
 ### Run the interpreter
 ```bash
-poetry run python bfpy/main.py hello_world.py
+poetry run python -m bfpy hello_world.py
 ```
